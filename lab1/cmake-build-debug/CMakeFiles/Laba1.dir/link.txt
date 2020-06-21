@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Laba1.dir/main.cpp.o CMakeFiles/Laba1.dir/BinaryCalculator.cpp.o CMakeFiles/Laba1.dir/Pipeline.cpp.o  -o Laba1 

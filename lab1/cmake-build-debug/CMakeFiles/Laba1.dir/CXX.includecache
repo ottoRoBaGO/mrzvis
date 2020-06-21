@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viktor/2-course/MRZvIS/laba_1/BinaryCalculator.cpp
+BinaryCalculator.h
+/home/viktor/2-course/MRZvIS/laba_1/BinaryCalculator.h
+vector
+-
+iostream
+-
+
+/home/viktor/2-course/MRZvIS/laba_1/BinaryCalculator.h
+string
+-
+vector
+-
+
